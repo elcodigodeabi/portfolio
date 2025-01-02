@@ -1,0 +1,8 @@
+public/
+  ├── profile/
+  │   └── profile-photo.jpg
+  ├── certificates/
+  ├── education/
+  ├── hobbies/
+  └── projects/
+
